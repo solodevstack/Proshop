@@ -1,5 +1,5 @@
 //export const BASE_URL = process.env.NODE_ENV === "development"? " : "";
-export const BASE_URL = "http://localhost:3000";
+export const BASE_URL = "https://proshop-0ciz.onrender.com";
 export const PRODUCTS_URL = "/api/products";
 export const CATEGORIES_URL = "/api/categories";
 export const USERS_URL = "/api/users";
