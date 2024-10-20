@@ -28,7 +28,7 @@ app.use(cookieParser());
 
 
 app.use(cors({
-    origin: "http://localhost:3000",
+    origin: "https://proshop-0ciz.onrender.com",
     credentials: true,   
    
 }));
